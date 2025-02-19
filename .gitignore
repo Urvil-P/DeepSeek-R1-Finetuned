@@ -2,5 +2,3 @@ __pycache__
 .ipynb_checkpoints
 deepseek_finetuned
 inference.ipynb
-llm.py
-stream.py
