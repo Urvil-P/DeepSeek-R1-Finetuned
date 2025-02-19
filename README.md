@@ -1,11 +1,11 @@
 # Fine-tuned DeepSeek-R1-Distill-Qwen-1.5B on Bhagwad Geeta
 
 ## 📌 Project Overview
-This is a basic **LLM Fine-tuning Implementation**, where the **DeepSeek-R1-Distill-Qwen-1.5B** model has been fine-tuned on **Bhagavad Gita** data. The dataset consists of **question-answer pairs** generated using ChatGPT from the teachings of Bhagavad Gita.
+This is a basic **LLM Fine-tuning Implementation**, where the **DeepSeek-R1-Distill-Qwen-1.5B** model has been fine-tuned on **Bhagwad Geeta** data. The dataset consists of **question-answer pairs** generated using ChatGPT from the teachings of Bhagwad Geeta.
 
 ## 📖 Model Details
 - **Base Model:** [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
-- **Dataset:** Question-Answer pairs  from Bhagavad Gita generated using ChatGPT
+- **Dataset:** Question-Answer pairs  from Bhagwad Geeta generated using ChatGPT
 - **Fine-Tuning Method:** LoRA, PEFT (Parameter-Efficient Fine-Tuning)
 
 ## 🚀 Usage Instructions
@@ -85,4 +85,4 @@ print(response)
 For any questions or discussions, reach out via **GitHub Issues**.
 
 ---
-🚀 *Enjoy using the fine-tuned Bhagavad Gita LLM!* 🙏
+🚀 *Enjoy using the fine-tuned Bhagwad Geeta LLM!* 🙏
